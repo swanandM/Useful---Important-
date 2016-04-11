@@ -1,3 +1,4 @@
+This code is not written by me.
 """Beautiful Soup
 Elixir and Tonic
 "The Screen-Scraper's Friend"

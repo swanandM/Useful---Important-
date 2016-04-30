@@ -1,0 +1,7 @@
+[global]
+ioengine=posixaio
+rw=readwrite
+size=2g
+directory=/root/swan
+threads=1
+[myReadWriteTest-Thread1]
